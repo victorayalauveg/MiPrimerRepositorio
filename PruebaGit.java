@@ -17,6 +17,7 @@ public class PruebaGit {
         // TODO code application logic here
         System.out.println("¡Hola nuevo repositorio!");
         // Agregamos un nuevo mensaje
+        System.out.println("modificación en rama");
     }
     
 }
